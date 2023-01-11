@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d764e22.chunk.css",
+    "main.js": "/static/js/main.881cab4d.chunk.js",
+    "main.js.map": "/static/js/main.881cab4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ccb8db9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ccb8db9.js.map",
+    "static/css/2.d1c75e18.chunk.css": "/static/css/2.d1c75e18.chunk.css",
+    "static/js/2.96011307.chunk.js": "/static/js/2.96011307.chunk.js",
+    "static/js/2.96011307.chunk.js.map": "/static/js/2.96011307.chunk.js.map",
+    "static/js/3.04bc71ed.chunk.js": "/static/js/3.04bc71ed.chunk.js",
+    "static/js/3.04bc71ed.chunk.js.map": "/static/js/3.04bc71ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d1c75e18.chunk.css.map": "/static/css/2.d1c75e18.chunk.css.map",
+    "static/css/main.0d764e22.chunk.css.map": "/static/css/main.0d764e22.chunk.css.map",
+    "static/js/2.96011307.chunk.js.LICENSE.txt": "/static/js/2.96011307.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/yellow-checkbox-on.fc9131cb.fc9131cb.svg",
+    "static/media/index.css": "/static/media/zw.f5ceeff7.f5ceeff7.svg",
+    "static/media/bonusm.044e2b4c.mp3": "/static/media/bonusm.044e2b4c.mp3",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ccb8db9.js",
+    "static/css/2.d1c75e18.chunk.css",
+    "static/js/2.96011307.chunk.js",
+    "static/css/main.0d764e22.chunk.css",
+    "static/js/main.881cab4d.chunk.js"
+  ]
+}
